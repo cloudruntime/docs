@@ -67,7 +67,7 @@ time_format_blog = "2006.01.02"
 [[languages.en.menu.main]]
 name = "Home"
 weight = 100
-url = "/"
+url = "https://cloudruntime.net/en/"
 pre = "<i class='fa-solid fa-house'></i>"
 
 [languages.zh-cn]
@@ -83,7 +83,7 @@ time_format_blog = "2006.01.02"
 [[languages.zh-cn.menu.main]]
 name = "返回主页"
 weight = 100
-url = "/"
+url = "https://cloudruntime.net/"
 pre = "<i class='fa-solid fa-house'></i>"
 
 [markup]
